@@ -63,9 +63,30 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
     <tr>
         <td><strong>Week 4</strong></td>
         <td>11 Mar <br />12 Mar</td>
-        <td><strong>[Online only]</strong> Pretraining &#124; Transfer Learning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_4">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+10%3A+Pretained+Language+Models%3A+ELMo%2C+BERT%2C+GPT/0_kuphnc4t/31346">video</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+11%3A+Pretrained+Representations%3A+BART++T5/0_q1p75ish/31346">video</a>] <br /><strong>Guest Lecture</strong></td>
+        <td><strong>[Online only]</strong> Pretraining &#124; Transfer Learning [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_4">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+10%3A+Pretained+Language+Models%3A+ELMo%2C+BERT%2C+GPT/0_kuphnc4t/31346">video</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+11%3A+Pretrained+Representations%3A+BART++T5/0_q1p75ish/31346">video</a>] <br /><strong>Guest Lecture</strong> [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+from+Leandro+von+Werra+%28HuggingFace%29%3A+Training+Data+for+LLMs/0_721i067b/31346">video</a>]</td>
         <td>Suggested reading: <ul><li>Elmo: <a href="https://aclanthology.org/N18-1202">Deep Contextualized Word Representations</a></li><li>BERT: <a href="https://aclanthology.org/N19-1423">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a></li><li>RoBERTa: <a href="https://arxiv.org/abs/1907.11692">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></li><li><a href="https://www.ruder.io/state-of-transfer-learning-in-nlp/">Transfer Learning in Natural Language Processing</a></li><li>T5: <a href="https://arxiv.org/abs/1910.10683">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a></li><li>BART: <a href="https://arxiv.org/abs/1910.13461">BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension</a></li></ul></td>
         <td>Antoine Bosselut<br /><strong>Leandro von Werra (HuggingFace)</strong></td>
+    </tr>
+        <tr>
+        <td><strong>Week 5</strong></td>
+        <td>18 Mar<br/>19 Mar</td>
+        <td>Evaluation &amp; Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_5">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+13-14%3A+Evaluation++Dataset+Biases/0_38wmfktw/31346">video</a>]<br /><strong>Guest Lecture: Evaluation of AI systems</strong> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_5">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+from+Angelika+Romanou+%28EPFL%29%3A+Evaluation+of+AI+systems/0_tjg4y7bb/31346">video</a>]</td>
+        <td>Suggested reading: -</td>
+        <td>Antoine Bosselut<br/><strong>  Angelika Romanou (EPFL)</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Week 6</strong></td>
+        <td>25 Mar <br />26 Mar</td>
+        <td>Text Generation: Decoding  & Training [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_6">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+19-20%3A+Text+Generation%3A+Decoding+++Training/0_2paj14oz/31346">video</a>]<br />Text Generation: Evaluation [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_6">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+21%3A+Text+Generation%3A+Evaluation/0_p2msvic0/31346">video</a>]</td>
+        <td>Suggested reading: <ul><li>Decoding: <a href="https://arxiv.org/abs/1503.03535">On Using Monolingual Corpora in Neural Machine Translation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1805.04833">Hierarchical Neural Story Generation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1912.02164">Plug and Play Language Models: A Simple Approach to Controlled Text Generation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a></li><li>Decoding: <a href="https://arxiv.org/abs/1911.00172">Generalization through Memorization: Nearest Neighbor Language Models</a></li><li>Training: <a href="https://arxiv.org/abs/1511.06732">Sequence Level Training with Recurrent Neural Networks</a></li><li>Training: <a href="https://arxiv.org/abs/1609.08144"> Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li><li>Training: <a href="https://arxiv.org/abs/1612.00563">Self-critical Sequence Training for Image Captioning</a></li><li>Training: <a href="https://arxiv.org/abs/1612.00370">Improved Image Captioning via Policy Gradient Optimization of SPIDEr</a></li><li>Training: <a href="https://arxiv.org/abs/1705.04304">A Deep Reinforced Model for Abstractive Summarization</a></li><li>Training: <a href="https://arxiv.org/abs/1805.03162">Polite Dialogue Generation Without Parallel Data</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 7</strong></td>
+        <td>1 Apr <br />2 Apr</td>
+        <td>LLMs: In-context Learning, Instruction Tuning, Post-training [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_7">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+23%3A+LLMs%3A+In-context+Learning%2C+Instruction+Tuning%2C+Post-training/0_4ssy7l4l/31346">videos</a>]                <br/> <strong>No Class</strong></td>
+        <td></td>
+        <td>Antoine Bosselut</td>
     </tr>
     <tr>
         <td></td>
@@ -100,7 +121,7 @@ Please email us at **nlp-cs552-spring2026-ta-team [at] groupes [dot] epfl [dot] 
 
 **Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut)
 
-**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic)
+**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic), [Hao Zhao](https://people.epfl.ch/hao.zhao)
 
 
 
